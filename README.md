@@ -5,7 +5,7 @@
 - 📫 How to reach me minitel
 - 😄 Pronouns: he
 - ⚡ Fun fact: No fun
-- 🖥https://chabuzz.fr
+- 🖥 https://chabuzz.fr
 
 <!---
 Chabuzz/Chabuzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
